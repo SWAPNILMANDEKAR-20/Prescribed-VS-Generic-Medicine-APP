@@ -36,7 +36,8 @@ Project Structure
 How to Use
 
 1. Clone the repository
-git clone https://github.com/SWAPNIL-20-MANDEKAR/generic-vs-prescribed-medicine-app.git
+git clone (https://github.com/SWAPNIL-20-MANDEKAR>/generic-vs-prescribed-medicine-app
+)
 cd generic-vs-prescribed-medicine-app
 
 
