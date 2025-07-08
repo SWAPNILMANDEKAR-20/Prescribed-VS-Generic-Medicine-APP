@@ -30,17 +30,7 @@ Frontend:
 
 Project Structure
 
-
-generic-vs-prescribed-medicine-app/
-│
-├── static/                 # CSS/JS files
-├── templates/              # HTML frontend templates
-├── app.py                  # Main Flask application
-├── requirements.txt        # Python dependencies
-├── utils/                  # Utility functions (API handlers, caching, etc.)
-├── README.md               # Project documentation
-└── LICENSE                 # Open-source license info
-
+![image](https://github.com/user-attachments/assets/22db40cd-a50b-4321-9c14-5a5011d168aa)
 
 
 How to Use
