@@ -1,4 +1,3 @@
-
 Generic vs Prescribed Medicine App
 
 Overview
