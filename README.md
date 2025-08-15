@@ -1,4 +1,6 @@
 Generic vs Prescribed Medicine App
+<img width="540" height="918" alt="image" src="https://github.com/user-attachments/assets/b8f32918-8b15-473b-8b9d-56a685ef02d2" />
+
 
 Overview
 The Generic vs Prescribed Medicine App is designed to help users easily find **generic alternatives** to costly branded medications. It promotes affordable healthcare access by offering detailed information such as **drug usage**, **price comparisons**, and **side effects**, all sourced from reliable databases like the **OpenFDA API**.
