@@ -1,5 +1,5 @@
 Generic vs Prescribed Medicine App
-<img width="540" height="918" alt="image" src="https://github.com/user-attachments/assets/b8f32918-8b15-473b-8b9d-56a685ef02d2" />
+<img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/b8f32918-8b15-473b-8b9d-56a685ef02d2" />
 
 
 Overview
